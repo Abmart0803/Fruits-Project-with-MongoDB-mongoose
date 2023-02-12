@@ -1,0 +1,23 @@
+{
+  "name": "fruits-project-with-mongodb",
+  "version": "1.0.0",
+  "description": "MY Fruits Project with MongoDB driver.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abmart0803/Fruits-Project-with-MongoDB.git"
+  },
+  "author": "Abiola Martins @ Soft Skills Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abmart0803/Fruits-Project-with-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Abmart0803/Fruits-Project-with-MongoDB#readme",
+  "dependencies": {
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.1"
+  }
+}
